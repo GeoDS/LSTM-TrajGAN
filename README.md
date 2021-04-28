@@ -29,7 +29,7 @@ Train the LSTM-TrajGAN model using the preprocessed data.
 python train.py 2000 256 100
 ```
 
-Where `2000` is the total training epochs, '256' is the batch size, `100` is the parameter saving interval (i.e., save params every 100 epochs).
+Where `2000` is the total training epochs, `256` is the batch size, `100` is the parameter saving interval (i.e., save params every 100 epochs).
 
 ### Prediction
 
@@ -49,7 +49,7 @@ Evaluate the synthetic trajectory data on the Trajectory-User Linking task using
 python TUL_test.py data/train_latlon.csv results/syn_traj_test.csv 100
 ```
 
-Where `data/train_latlon.csv` is the training data, `results/syn_traj_test.csv` is the synthetic test data, `100` is the hidden unit size of LSTM.
+Where `data/train_latlon.csv` is the training data, `results/syn_traj_test.csv` is the synthetic test data, `100` is the embedder size.
 
 ### Dataset
 
