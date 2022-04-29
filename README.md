@@ -6,7 +6,7 @@ LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection
 
 If you find our code useful for your research, please cite our paper:
 
-*Rao, J., Gao, S.\*, Kang, Y. and Huang, Q. (2020). LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection[https://drops.dagstuhl.de/opus/volltexte/2020/13047/]. In the Proceedings of the 11th International Conference on Geographic Information Science (GIScience 2021), 12:1--12:17.*
+*Rao, J., Gao, S.\*, Kang, Y. and Huang, Q. (2020). [LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection](https://drops.dagstuhl.de/opus/volltexte/2020/13047/). In the Proceedings of the 11th International Conference on Geographic Information Science (GIScience 2021), 12:1--12:17.*
 
 ```
 @InProceedings{rao_et_al:LIPIcs:2020:13047,
