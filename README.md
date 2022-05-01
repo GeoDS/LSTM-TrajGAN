@@ -47,7 +47,7 @@ LSTM-TrajGAN uses the following packages with Python 3.6.3
 Convert csv files to one-hot-encoded npy files.
 
 ```
-python csv2npy.py --load_path dev_train_encoded_final.csv --save_path train_encoded.npy --tid_col tid
+python data/csv2npy.py --load_path dev_train_encoded_final.csv --save_path train_encoded.npy --tid_col tid
 ```
 
 Where `load_path` is the path to csv file, `save_path` is the path to save npy file, `tid_col` is the column name of trajectory id.
