@@ -52,6 +52,9 @@ LSTM-TrajGAN uses the following packages with Python 3.6.3
 ## Usage
 
 ### Data Encoding
+<p align="center">
+    <img src="results/Trajectory_Point_Encoding.png" alt="Trajectory_Point_Encoding" >
+</p>
 
 Convert csv files to one-hot-encoded npy files.
 
