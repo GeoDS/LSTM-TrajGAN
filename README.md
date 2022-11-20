@@ -13,7 +13,7 @@ The prevalence of location-based services contributes to the explosive growth of
 </p>
 
 ## Reference
-If you find our code useful for your research, please cite our paper:
+If you find our code or ideas useful for your research, you may cite our paper:
 
 *Rao, J., Gao, S.\*, Kang, Y. and Huang, Q. (2020). [LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection](https://drops.dagstuhl.de/opus/volltexte/2020/13047/). In the Proceedings of the 11th International Conference on Geographic Information Science (GIScience 2021), 12:1--12:17.*
 
