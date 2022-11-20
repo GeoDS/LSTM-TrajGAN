@@ -2,8 +2,17 @@
 
 LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection
 
-## Paper
+## Abstract
+The prevalence of location-based services contributes to the explosive growth of individual-level trajectory data and raises public concerns about privacy issues. In this research, we propose a novel LSTM-TrajGAN approach, which is an end-to-end deep learning model to generate privacy-preserving synthetic trajectory data for data sharing and publication. We design a loss metric function TrajLoss to measure the trajectory similarity losses for model training and optimization. The model is evaluated on the trajectory-user-linking task on a real-world semantic trajectory dataset. Compared with other common geomasking methods, our model can better prevent users from being re-identified, and it also preserves essential spatial, temporal, and thematic characteristics of the real trajectory data. The model better balances the effectiveness of trajectory privacy protection and the utility for spatial and temporal analyses, which offers new insights into the GeoAI-powered privacy protection.
 
+<p align="center">
+    <img src="images/workflow.png" alt="workflow" >
+</p>
+<p align="center">
+    <img src="images/trajectory_example.png" alt="trajectory_example" >
+</p>
+
+## Reference
 If you find our code useful for your research, please cite our paper:
 
 *Rao, J., Gao, S.\*, Kang, Y. and Huang, Q. (2020). [LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection](https://drops.dagstuhl.de/opus/volltexte/2020/13047/). In the Proceedings of the 11th International Conference on Geographic Information Science (GIScience 2021), 12:1--12:17.*
