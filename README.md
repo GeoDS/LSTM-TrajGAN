@@ -38,6 +38,23 @@ If you find our code or ideas useful for your research, please cite our paper:
 }
 ```
 
+## Related work
+*Rao, J., Gao, S.\*, and Zhu, S. (2023). [CATS: Conditional Adversarial Trajectory Synthesis for privacy-preserving trajectory data publication using deep learning approaches](https://www.tandfonline.com/doi/abs/10.1080/13658816.2023.2262550). In International Journal of Geographical Information Science, 37:12,2538--2574.
+
+```
+@article{rao2023cats,
+  title={CATS: Conditional Adversarial Trajectory Synthesis for privacy-preserving trajectory data publication using deep learning approaches},
+  author={Rao, Jinmeng and Gao, Song and Zhu, Sijia},
+  journal={International Journal of Geographical Information Science},
+  volume={37},
+  number={12},
+  pages={2538--2574},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+```
+
+
 ## Requirements
 
 LSTM-TrajGAN uses the following packages with Python 3.6.3
